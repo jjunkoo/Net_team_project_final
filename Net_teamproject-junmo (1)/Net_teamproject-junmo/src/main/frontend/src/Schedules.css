@@ -1,0 +1,36 @@
+.title{
+    display: flex;
+    margin-left: 5vw;
+    margin-top: 10vh;
+}
+.time_date{
+    display: flex;
+    margin-left: 7vw;
+    margin-top: 6vh;
+    font-size: large;
+    font-weight: bold;
+}
+.left_flex{
+    float: left;
+    display: flex;
+    font-size : large;
+    font-weight : bold;
+}
+.Date{
+    margin-top: 2vh;
+    margin-left: 4vw;
+    width :150px;
+}
+.time{
+    margin-top: 2vh;
+    margin-left: 4vw;
+    width:150px;
+}
+.sche{
+    margin-top: 2vh;
+    margin-left: 4vw;
+    width:1000px
+}
+.list{
+    width:100%;
+}

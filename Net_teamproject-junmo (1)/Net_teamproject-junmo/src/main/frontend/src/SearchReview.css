@@ -1,0 +1,26 @@
+body{
+    background-color: #DCF7FF;
+  }
+.button2{
+    width: 70vw;
+    height: 30vh;
+    margin-bottom: 5vh;
+    background-color: white;
+}
+.button3{
+    width: 70vw;
+    height: 30vh;
+    margin-bottom: 5vh;
+    margin-left : 7vw;
+    background-color: white;
+}
+.searchbox{
+    width: 70vw;
+    height: 10vh;
+    margin-left: 7vw;
+    resize: none;
+    font-size: 2vw;
+}
+.titlepart{
+    margin-left: 7vw;
+}

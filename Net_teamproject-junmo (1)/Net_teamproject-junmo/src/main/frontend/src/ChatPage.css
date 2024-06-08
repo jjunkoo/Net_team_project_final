@@ -1,0 +1,29 @@
+.chat-page {
+  position: relative;
+  display: flex;
+  height: 100vh;
+  box-sizing: border-box;
+}
+
+.map-container {
+  flex: 4.5;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  margin-top:5vh;
+}
+
+.chat-container {
+  flex: 4;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+.chat-buttons {
+  margin-top: 16px; /* Adjust as needed */
+}
+
+.chat-buttons button {
+  margin-right: 16px; /* Adjust as needed */
+}

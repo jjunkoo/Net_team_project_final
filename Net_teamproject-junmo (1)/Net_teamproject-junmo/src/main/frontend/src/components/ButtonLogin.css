@@ -1,0 +1,21 @@
+.custom-buttonMypage {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 35px;
+    margin-left: 200px; /* 왼쪽에 여백을 줍니다. */
+    border: none;
+    background-color: F3F6F4;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+  
+  .custom-buttonMypage:hover {
+    background-color: rgb(196, 196, 196);
+  }
+  
+.custom-buttonMypage span {
+    font-size: 15px; /* 텍스트의 글꼴 크기를 조절합니다. */
+    font-weight: bold; /* 텍스트를 굵게 설정 */
+}

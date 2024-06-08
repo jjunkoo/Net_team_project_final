@@ -1,0 +1,25 @@
+body{
+    background-color: #DCF7FF;
+  }
+  
+  .space {
+    margin-right: 40px; /* 버튼들 사이의 오른쪽 여백을 조절합니다. */
+  }
+  
+  .name {
+    margin-bottom: 30px;
+    margin-left: 35px;
+    width: 130px;
+    height: 20px;
+    border: none;
+    background-color: #DCF7FF;
+    font-size: 25px; /* 텍스트의 글꼴 크기를 조절합니다. */
+    font-weight: bold; /* 텍스트를 굵게 설정 */
+  }
+  
+  .button-wrapper {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
